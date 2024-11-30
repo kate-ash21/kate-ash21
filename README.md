@@ -1,7 +1,7 @@
 # Hi, I'm Ashley! 👋
 👩🏻‍🎓 Undergraduate studying Multimedia, Mobile and Web Development at Maynooth University, Ireland</br>
 ⭐️ Sharing my journey and learnings in technology</br>
-🎨 Eye for design - Incorporating this creativity in my craft✨</br>
+🎨 Eye for design - Incorporating this creativity into my craft✨</br>
 
 ## Tech Stack 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
